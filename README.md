@@ -10,6 +10,7 @@ Press F8 to format the dax formula immediately
 
 
 How:
+
 1.download the files one_dax_format.pbitool.json and one_dax_format.exe
 
 2.Place the files(one_dax_format.pbitool.json) in folder C:\Program Files (x86)\Common Files\Microsoft Shared\Power BI Desktop\External Tools
