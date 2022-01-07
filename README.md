@@ -5,7 +5,8 @@ Place the mouse cursor in the dax formula edit box
 
 Press F8 to format the dax formula immediately
 
-![55555](C:\Users\L\Desktop\55555.gif)
+![55555](https://user-images.githubusercontent.com/37357651/148503868-bef47f89-d37f-4f7c-ae61-92bdd9314e6d.gif)
+
 
 
 How:
